@@ -15,14 +15,14 @@ Melhorias que gostaria de implementar futuramente:
 -   Migrar a lógica do jogo do lado-cliente ao lado-servidor com Node, pois na versao atual é fácil trapacear utilizando as ferramentas do próprio navegador.
 -   Guardar as melhores pontuacoes de forma persistente com Mongo.
 
-** Como jogar **
+**Como jogar**
 
-1. Clone o repositório na sua máquina com:
+1. Baixe a versao zipada em 'Code' > 'Download ZIP' ou Clone o repositório na sua máquina com:
 
 ```
 git clone https://github.com/gatasi/genesis-dio.git
 ```
 
-ou baixe a versao zipada em Code > Download ZIP. 2. Abra o arquivo `index.html` no seu navegador favorito.
+2. Abra o arquivo `index.html` no seu navegador favorito.
 
 Visite o projeto original [aqui](https://github.com/SpruceGabriela/genesis-dio).
